@@ -1,0 +1,23 @@
+{
+  "name": "codestepbystep",
+  "version": "1.0.0",
+  "description": "node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atulhackit/learning-Nodejs.git"
+  },
+  "author": "atul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atulhackit/learning-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Atulhackit/learning-Nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
